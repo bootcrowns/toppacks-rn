@@ -1,0 +1,3 @@
+rootProject.name = 'TopPackages'
+
+include ':app'
